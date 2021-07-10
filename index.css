@@ -1,0 +1,27 @@
+.important{
+    color: blue;
+    text-align: center;
+    font-size: larger;
+}
+.special{
+    color: blueviolet;
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+}.good{
+    color: brown;
+    text-align: center;
+    font-size: larger;
+}
+.firstline{
+    color: black;
+    font-style: italic;
+}
+.line2{
+    color: grey;
+    font-style: italic;
+}
+.line3{
+    color: purple;
+    font-style: italic;
+}
